@@ -1,0 +1,6 @@
+/env/
+*.pyc
+db.sqlite3
+.vscode
+app/notifier/*/migrations/
+app/notifier/*/__pycache__/git
